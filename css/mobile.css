@@ -1,0 +1,16 @@
+@media (max-width:376px){
+    /* section1 */
+    .burger_menu{
+        display: block;
+    }
+
+nav{
+    display: none;
+}
+
+/* section3 */
+.section3_div{
+    display: flex;
+    flex-wrap: wrap;
+}
+}

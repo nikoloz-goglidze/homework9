@@ -1,0 +1,36 @@
+@media (max-width:1025px){
+
+.section_1{
+    padding: 171px 92px 172px 92px;
+}
+
+
+
+.section_2{
+    margin-bottom: 130px;
+   
+}
+.card_3{
+    display: none;
+}
+/* section3 */
+.section3_div{
+    
+    flex-wrap: wrap;
+    row-gap: 20px
+    ;
+
+}
+.image_div{
+    display: flex;
+  flex-direction: row;
+ column-gap: 20px;
+ 
+}
+.image_2, .image_3{
+    display: flex;
+    object-fit: cover;
+    width: 100%;
+}
+
+}
